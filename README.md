@@ -3,7 +3,7 @@
 An AI-powered CV/Resume reviewer built with Python OOP + Streamlit + OpenRouter API.
 
 ## 🚀 Live App
-[Open the Live App](ai-cv-reviewer-ngr9jvvkrg6cyhwe5eern6.streamlit.app)
+[Open the Live App](https://ai-cv-reviewer-ngr9jvvkrg6cyhwe5eern6.streamlit.app)
 
 ## ✨ Features
 - Paste any CV and get instant AI feedback
